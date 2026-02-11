@@ -2,6 +2,7 @@
 
 A beginner-friendly Android app demonstrating RecyclerView, JSON parsing, and View Binding in Kotlin.
 
+
 ## Features
 
 - Displays levels loaded from a JSON data source
@@ -87,6 +88,9 @@ The app expects a `levels.json` file in the assets folder with the following str
   ]
 }
 ```
+
+#by Solomon Monotilla
+
 
 ## License
 
