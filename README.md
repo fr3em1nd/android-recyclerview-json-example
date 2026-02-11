@@ -1,6 +1,6 @@
-# OTA-Exam
+# android-recyclerview-json-example
 
-An Android application that displays exam levels and activities in a clean, scrollable list.
+A beginner-friendly Android app demonstrating RecyclerView, JSON parsing, and View Binding in Kotlin.
 
 ## Features
 
